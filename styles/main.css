@@ -61,13 +61,6 @@ body {
 	z-index: 0;
 }
 
-/*.r_eye:hover {
-	height: 40px;
-	width: 40px;
-	right: 5px;
-}*/
-
-
 .in-l, .in-r {
 	width: 18px;
 	height: 18px;
@@ -78,14 +71,6 @@ body {
 	left: 4px;
 	background-color: #ba8332;
 }
-
-/*.in-l:hover {
-	width: 6px;
-	height: 6px;
-	top: 12px;
-	left: 12px;
-}*/
-
 
 .l_ear, .r_ear {
 	width: 40px;
@@ -184,7 +169,7 @@ body {
 	height: 150px;
 	border: 1px solid #000;
 	border-radius: 100px 100px 40px 40px;
-	background-color: #333;
+	background-color: #fff;
 }
 
 .l_leg {
